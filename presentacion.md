@@ -8,3 +8,8 @@ Soy estudiante de 2º de DAM y me interesa jugar videojuegos. Estoy haciendo est
 ## Hobbies
 
 ## Película favorita
+
+## Hobbies
+- Leer
+- Jugar al fútbol
+- Programación
