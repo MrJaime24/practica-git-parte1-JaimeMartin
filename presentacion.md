@@ -14,4 +14,10 @@ Soy estudiante de 2º de DAM y me interesa jugar videojuegos. Estoy haciendo est
 - Jugar al fútbol
 - Programación
 - 
+<<<<<<< HEAD
 ## Película favorita
+- Mi película favorita: *Inception*
+=======
+## Película favorita
+- Mi película favorita: *El viaje de Chihiro*
+>>>>>>> origin/main
