@@ -1,1 +1,2 @@
 - Matemáticas\n- Historia\n- Programación
+- Física\n- Inglés
